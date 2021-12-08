@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Shisheo Dev</string>
+
+    <string name="error_message_loading_restaurants">Error fetching data, retry when network quality improves!</string>
+    <string name="default_message_loading">Getting your favorite restaurants detail…</string>
+    <string name="search_restaurant">Search Restaurant</string>
+    <string name="home">Home</string>
+    <string name="location">Location</string>
+
+</resources>
